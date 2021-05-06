@@ -7,3 +7,6 @@ Use the Wiki for helpful info covered in the meetings.
 
 ## This is a test
 - And this!
+
+## Heather is participating
+Learning new things about VS Code and GitHub
