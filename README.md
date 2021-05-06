@@ -10,4 +10,4 @@ Use the Wiki for helpful info covered in the meetings.
 
 ## Amanda was here. Hi Friends
 
-I want a branch
+I want a branch. What about using ssh keys
