@@ -7,4 +7,18 @@ Use the Wiki for helpful info covered in the meetings.
 
 ## This is a test
 - And this!
+
+
+## Amanda was here. Hi Friends
+
+## Heather is participating
+Learning new things about VS Code and GitHub
+
+
+Hi Heather <3
+
+
+Hello World
+
+
 - Joey was here lmao
