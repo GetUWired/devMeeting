@@ -1,2 +1,5 @@
 # devMeeting
-#Thomas wants you to read this
+## Thomas wants you to read this
+* and this
+* and this
+* and this
