@@ -8,4 +8,4 @@ Use the Wiki for helpful info covered in the meetings.
 ## This is a test
 - And this!
 
-## Amanda was here.
+## Amanda was here. Hi Friends
