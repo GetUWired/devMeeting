@@ -1,7 +1,4 @@
-- This is the dev meeting notes
 # devMeeting
-## Thomas wants you to read this
-## This is an H2 
-* and this
-* and this
-* and this
+
+## Home of the GUW Dev Meetings
+Use the Wiki for helpful info covered in the meetings.
